@@ -4,7 +4,8 @@
 **toddhodes/toddhodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Currently: I’m working on fixing the Android infrastructure at Wish.com
-- 🔭 Previously: I worked at LocationLabs for 18 years.  We sold it to AVG for $220MM in Oct 2014.
-- 💬 Ask me about: pretty much anything from the last three decades of computer science.  I'm a CS history buff, who had lots of time to study it during my PhD career at Berkeley.
-- ⚡ Fun facts: I co-founded and co-own a bar in Bloomington, UN -- the Orbit Room -- with live music and pinball; I've been the executive producer of albums for Brave Scarecrowe (Americana), Outer Sounds (West coast world music), the Rabbit Hole Orchestra (psychedelic rock), and Quinn DeVeaux (soul, blues, R&B)
+- 🔭 Currently I’m working on Android infrastructure at wish.com (contextlogic).
+- 🥼 Previously I worked at LocationLabs for almost 18 years, my entire post-PhD career.  We sold it to AVG in Oct 2014 (now Avast).
+- 📚 I received my PhD in Computer Science from UC Berkeley, and did my undergrad at UVa.
+- 🏡 I was raised in Atlanta, Georgia
+- ⚡ Fun fact: I co-founded and co-own a bar, and I've been the executive producer of a bunch of albums.
