@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **toddhodes/toddhodes** `README.md` (this file) appears on your GitHub profile.
